@@ -1,5 +1,5 @@
 {
-    "name": "aoloe/php-template",
+    "name": "aoloe/template",
     "type": "library",
     "description": "simplest php based template engine",
     "keywords": [

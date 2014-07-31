@@ -4,7 +4,7 @@
  * Object oriented proxy to the gitapi library to be used in Slim
  */
 
-// namespace Aoloe;
+namespace Aoloe;
 
 class Template {
     var $vars;
