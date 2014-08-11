@@ -8,6 +8,7 @@ namespace Aoloe;
 
 class Template {
     var $vars;
+    var $file = null;
 
     /**
      * Constructor
@@ -30,6 +31,7 @@ class Template {
      */
     function clear() {
         unset($this->vars);
+        $this->file = null;
     }
 
     /**
